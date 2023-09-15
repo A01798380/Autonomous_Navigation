@@ -47,10 +47,6 @@ Y_aruco_objetivo = Y_aruco
 distancia_final = 0.1  
 
 
-# Se define la distancia de seguridad con respecto a los obstáculos para no chocar.
-distancia_seguridad = 0.9  
-
-
 # Se define la velocidad de movimiento del robot.
 velocidad = 0.2  
 
@@ -61,7 +57,7 @@ YR = 0.0
 
 # Se generan obstáculos alrededor del objetivo.
 num_obstaculos = 10 
-radio_choq = 0.5  # Radio para evitar obstáculos.
+radio_choq = 0.5  # Radio de seguridad para evitar obstáculos.
 obstaculos = []
 for _ in range(num_obstaculos):
     angulo = random.uniform(0, 2 * math.pi)
