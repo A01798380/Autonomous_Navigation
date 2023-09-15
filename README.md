@@ -3,7 +3,7 @@ Este repositorio contiene un programa de simulación en Python para un rover en 
 
 ====================================================================================
 
-Este algoritmo simula el movimiento de un rover en un entorno bidimensional con obstáculos mientras se dirige hacia un objetivo específico. El rover utiliza una estrategia de navegación para evitar choques con obstáculos y alcanzar su destino de manera segura. A continuación, se describen los pasos clave del algoritmo:
+A continuación, se describen los pasos clave del algoritmo:
 
 1. Generación de Coordenadas Aleatorias:
 
