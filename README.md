@@ -1,7 +1,7 @@
 # Autonomous_Navigation
 Este repositorio contiene un programa de simulación en Python para un rover en busca de un objetivo. Este permite que un rover navegue hacia un objetivo en un entorno bidimensional poblado de obstáculos. El rover se desplaza a una velocidad constante y ajusta su dirección para evitar chocar con los obstáculos detectados en su camino hacia el objetivo. Además, se garantiza que el rover mantenga una distancia de seguridad mínima tanto del objetivo como de los obstáculos.
 
-=========================================================================================
+====================================================================================
 
 Este algoritmo simula el movimiento de un rover en un entorno bidimensional con obstáculos mientras se dirige hacia un objetivo específico. El rover utiliza una estrategia de navegación para evitar choques con obstáculos y alcanzar su destino de manera segura. A continuación, se describen los pasos clave del algoritmo:
 
